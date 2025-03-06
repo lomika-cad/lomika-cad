@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Lomika Dilan</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lomika-inivos&label=Profile%20views&color=0e75b6&style=flat" alt="lomika-inivos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lomika-inivos" alt="lomika-inivos" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lomikad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lomikad" height="30" width="40" /></a>
-<a href="https://fb.com/lomikad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lomikad" height="30" width="40" /></a>
-<a href="https://instagram.com/lomikad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lomikad" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=lomika-inivos&label=Profile%20views&color=0e75b6&style=flat" alt="lomika-inivos" />
 </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lomika-inivos" alt="lomika-inivos" />
+  </a> 
+</p>
+
+---
+
+### 📞 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/lomikad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lomikad" height="30" width="40" /></a>
+  <a href="https://fb.com/lomikad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lomikad" height="30" width="40" /></a>
+  <a href="https://instagram.com/lomikad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lomikad" height="30" width="40" /></a>
+</p>
+
+---
 
 ## 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -56,14 +66,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lomika-inivos&show_icons=true&locale=en&layout=compact" alt="lomika-inivos" />
+</p>
 
-## 🎨 Design & Productivity
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lomika-inivos&show_icons=true&locale=en&layout=compact" alt="lomika-inivos" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lomika-inivos&show_icons=true&locale=en" alt="lomika-inivos" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lomika-inivos&show_icons=true&locale=en" alt="lomika-inivos" />
+</p>
